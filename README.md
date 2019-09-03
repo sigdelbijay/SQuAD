@@ -20,4 +20,5 @@ SQuAD dataset [1]
 [1] https://rajpurkar.github.io/SQuAD-explorer/ \ 
 [2] https://github.com/google-research/bert \
 [3] https://github.com/openai/gpt-2 \
-[4] https://github.com/thunlp/ERNIE
+[4] https://github.com/thunlp/ERNIE \
+[5] https://github.com/commonsense/conceptnet5/wiki
