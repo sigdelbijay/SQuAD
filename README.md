@@ -23,4 +23,5 @@ SQuAD dataset [1]
 [4] https://github.com/thunlp/ERNIE \
 [5] https://github.com/commonsense/conceptnet5/wiki \
 [6] https://github.com/maxlath/wikibase-sdk \
-[7] https://github.com/thunlp/OpenNRE/tree/master/opennre
+[7] https://github.com/thunlp/OpenNRE/tree/master/opennre \
+[8] https://github.com/Aunsiels/CSK
